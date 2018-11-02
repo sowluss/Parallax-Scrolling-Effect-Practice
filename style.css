@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 0; 
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  background: #f9f9f9;
+  font-size: 24px;
+  padding: 10px;
+}
+.paralax {
+  background: url(img/night-stars.jpg);
+  background-repeat: no-repeat center; 
+  background-size: cover;
+  background-attachment: fixed;
+  height: 500px;
+}
+
+p {
+  text-align: justify;
+}
+
+.parallax-window {
+  min-height: 500px;
+  background: transparent;
+}
+
+.container2 {
+  margin-top: 80px;
+  max-width: 960px;
+  margin: 0 auto;
+  background: #f9f9f9;
+  font-size: 24px;
+  padding: 30px;
+}
